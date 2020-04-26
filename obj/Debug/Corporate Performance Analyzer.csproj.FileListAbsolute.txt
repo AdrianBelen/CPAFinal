@@ -1,0 +1,232 @@
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll.config
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.pdb
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csc.exe
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csc.exe.config
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csc.rsp
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csi.exe
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csi.exe.config
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\csi.rsp
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.AppContext.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Console.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Net.Http.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\vbc.exe
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\vbc.exe.config
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\vbc.rsp
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csprojAssemblyReference.cache
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csproj.CopyComplete
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.dll
+C:\Users\Nicol\source\repos\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.pdb
+D:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll.config
+D:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll
+D:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.pdb
+D:\Corporate Performance Analyzer\bin\roslyn\csc.exe
+D:\Corporate Performance Analyzer\bin\roslyn\csc.exe.config
+D:\Corporate Performance Analyzer\bin\roslyn\csc.rsp
+D:\Corporate Performance Analyzer\bin\roslyn\csi.exe
+D:\Corporate Performance Analyzer\bin\roslyn\csi.exe.config
+D:\Corporate Performance Analyzer\bin\roslyn\csi.rsp
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.AppContext.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Collections.Immutable.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Console.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Globalization.Calendars.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Net.Http.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Net.Sockets.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.ValueTuple.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.dll
+D:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Corporate Performance Analyzer\bin\roslyn\vbc.exe
+D:\Corporate Performance Analyzer\bin\roslyn\vbc.exe.config
+D:\Corporate Performance Analyzer\bin\roslyn\vbc.rsp
+D:\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe
+D:\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe.config
+D:\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csprojAssemblyReference.cache
+D:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csproj.CopyComplete
+D:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.dll
+D:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.pdb
+C:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll.config
+C:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll
+C:\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.pdb
+C:\Corporate Performance Analyzer\bin\roslyn\csc.exe
+C:\Corporate Performance Analyzer\bin\roslyn\csc.exe.config
+C:\Corporate Performance Analyzer\bin\roslyn\csc.rsp
+C:\Corporate Performance Analyzer\bin\roslyn\csi.exe
+C:\Corporate Performance Analyzer\bin\roslyn\csi.exe.config
+C:\Corporate Performance Analyzer\bin\roslyn\csi.rsp
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Corporate Performance Analyzer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.AppContext.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Collections.Immutable.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Console.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Net.Http.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Net.Sockets.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.ValueTuple.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.dll
+C:\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Corporate Performance Analyzer\bin\roslyn\vbc.exe
+C:\Corporate Performance Analyzer\bin\roslyn\vbc.exe.config
+C:\Corporate Performance Analyzer\bin\roslyn\vbc.rsp
+C:\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe
+C:\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe.config
+C:\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csprojAssemblyReference.cache
+C:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csproj.CopyComplete
+C:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.dll
+C:\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.pdb
+D:\version 4\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll.config
+D:\version 4\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.dll
+D:\version 4\Corporate Performance Analyzer\bin\Corporate Performance Analyzer.pdb
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csc.exe
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csc.exe.config
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csc.rsp
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csi.exe
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csi.exe.config
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\csi.rsp
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.AppContext.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Collections.Immutable.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Console.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Globalization.Calendars.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Net.Http.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Net.Sockets.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Reflection.Metadata.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.ValueTuple.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\vbc.exe
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\vbc.exe.config
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\vbc.rsp
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe
+D:\version 4\Corporate Performance Analyzer\bin\roslyn\VBCSCompiler.exe.config
+D:\version 4\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\version 4\Corporate Performance Analyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csprojAssemblyReference.cache
+D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csproj.CopyComplete
+D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.dll
+D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.pdb

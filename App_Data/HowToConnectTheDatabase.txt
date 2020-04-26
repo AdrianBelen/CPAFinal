@@ -1,0 +1,18 @@
+Connecting a mdb access database file to asp.net project
+1.) Open Server Explorer
+2.) Right click on "Data Connection"
+3.) Add connection
+4.) Data source: "Microsoft Access Database File (OLE DB)
+	Database file name:>Browse>CPAData
+5.) No username or password>Test connection>Ok
+
+________________________________________________________________
+
+Make sure the project is being run from the C folder if you are connecting 
+the database with the relative path. 
+
+If you are using the absolute path, then it will look something like this in the Web.Config file:
+
+Connection String: Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\Nicol\source\repos\Corporate Performance Analyzer\App_Data\CPAData.mdb"
+
+**Connection Strings differ based on whose computer it is

@@ -14,6 +14,9 @@ namespace Corporate_Performance_Analyzer
         System.Data.OleDb.OleDbConnection conn;
         System.Data.OleDb.OleDbCommand cmd;
         String queryStr;
+        float constructString;
+        List<float> num_array = new List<float>();
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Page.IsPostBack)
@@ -26,43 +29,26 @@ namespace Corporate_Performance_Analyzer
 
             }
         }
-        protected void create_ratio(object sender, EventArgs e)
+        protected void move_to_num(object sender, EventArgs e)
+        {
+            constructString = float.Parse(FinancialConstructDropDown.SelectedValue);
+            
+            num_array.Add(constructString);
+            List<string> l2 = num_array.ConvertAll<string>(x => x.ToString());
+            foreach (string s in l2)
+            {
+                numerator_textBox.Text = s;
+            }
+
+        }
+        protected void delete_num(object sender, EventArgs e)
         {
 
         }
+
         protected void construct_add(object sender, EventArgs e)
         {
-            string selectedCompanyString = DropDownList1.SelectedItem.Text;
-            string selectedYearString = DropDownList2.SelectedItem.Text;
-            FinancialConstructs.AppendDataBoundItems = true;
-            String connString = System.Configuration.ConfigurationManager.ConnectionStrings["CPADataConnectionString"].ConnectionString;
-            queryStr = "SELECT [Financial Contruct] FROM [BalanceSheet] WHERE [Company]=@selectedCompanyString";
-            OleDbConnection con = new OleDbConnection(connString);
-            OleDbCommand cmd = new OleDbCommand();
-            cmd.CommandType = System.Data.CommandType.Text;
-            cmd.CommandText = queryStr;
-            cmd.Parameters.AddWithValue("@selectedCompanyString", selectedCompanyString);
-            //cmd.Parameters.AddWithValue("@selectedYearString", selectedYearString);
-
-            cmd.Connection = con;
-
-            try
-            {
-                con.Open();
-                FinancialConstructs.DataSource = cmd.ExecuteReader();
-                FinancialConstructs.DataTextField = "Financial Contruct";
-                FinancialConstructs.DataValueField = "Financial Contruct";
-                FinancialConstructs.DataBind();
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-            finally
-            {
-                con.Close();
-                con.Dispose();
-            }
+           
         }
         private void showRatio()
         {

@@ -78,13 +78,31 @@ namespace Corporate_Performance_Analyzer
         protected global::System.Web.UI.WebControls.DropDownList FinancialConstructDropDown;
 
         /// <summary>
-        /// TextAreaNumerator control.
+        /// inNum control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlTextArea TextAreaNumerator;
+        protected global::System.Web.UI.WebControls.Button inNum;
+
+        /// <summary>
+        /// out_num control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button out_num;
+
+        /// <summary>
+        /// numerator_textBox control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox numerator_textBox;
 
         /// <summary>
         /// TextAreaDenominator control.

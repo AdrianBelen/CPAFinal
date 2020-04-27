@@ -14,16 +14,20 @@
 						<h3>Company Name and Year</h3>
 						<p>
 							<asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT Company FROM cpadata.company"></asp:SqlDataSource>
-							<asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource1" DataTextField="Company"  DataValueField="Company" OnSelectedIndexChanged="construct_add" Width="200px"></asp:DropDownList>&nbsp;
-							<asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT CompanyYear FROM cpadata.company"></asp:SqlDataSource>							<asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource2" DataTextField="CompanyYear" DataValueField="CompanyYear" OnSelectedIndexChanged="construct_add" Width="80px"></asp:DropDownList>
+							<asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource1" DataTextField="Company"  DataValueField="Company" Width="200px"></asp:DropDownList>&nbsp;
+							<asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT CompanyYear FROM cpadata.company"></asp:SqlDataSource>							<asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource2" DataTextField="CompanyYear" DataValueField="CompanyYear" Width="80px"></asp:DropDownList>
 						</p>
 					</div><br /><br />
 					<div>
 						<h3>Ratio Constructs</h3>
 						<p>
-							
-							<asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT FinancialConstructs FROM cpadata.balancesheet"></asp:SqlDataSource>
-							<asp:DropDownList ID="FinancialConstructDropDown" runat="server" DataSourceID="SqlDataSource3" DataTextField="FinancialConstructs" DataValueField="FinancialConstructs"></asp:DropDownList>
+							<asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" SelectCommand="SELECT Numbers FROM cpadata.incomestatement WHERE (Company = @Param1) AND (CompanyYear = @Param2)">
+                                <SelectParameters>
+                                    <asp:ControlParameter ControlID="DropdownList1" Name="Param1" PropertyName="SelectedValue" />
+                                    <asp:ControlParameter ControlID="DropdownList2" Name="Param2" PropertyName="SelectedValue" />
+                                </SelectParameters>
+                            </asp:SqlDataSource>
+							<asp:DropDownList ID="FinancialConstructDropDown" runat="server" DataSourceID="SqlDataSource3" DataTextField="Numbers" DataValueField="Numbers"></asp:DropDownList>
 						</p>
 					</div>
 				</article>
@@ -32,8 +36,9 @@
 				<article class="col3-n">
 					<div style="padding-top:230px;text-align:center;">
 						<p style="padding-bottom:230px;"><!--Action buttons-->
-							<button id="numPlus" class="btn btn-block bt-dark text-light"><<</button><br />
-							<button id="numMinus" class="btn btn-block bt-dark text-light">>></button><br />
+							<asp:Button ID="inNum" runat="server" Text=">>" OnClick="move_to_num" class="btn-n" width="50px"/><br />
+							<asp:Button ID="out_num" runat="server" Text=">>" OnClick="delete_num" class="btn-n" width="50px"/><br />
+							
 						</p>
 						<p style="padding-bottom:60px;">
 							<button id="denominatorPlus" class="btn btn-block bt-dark text-light"><<</button><br />
@@ -63,7 +68,7 @@
 							<button id="nDivide" class="btn btn-block bt-dark text-light">/</button>&nbsp;
 						</p>
 						<p>
-							<textarea name="Numerator" id="TextAreaNumerator" TextMode="multiline" rows="5" cols="10" runat="server"></textarea>
+							<asp:textbox ID="numerator_textBox" runat="server"></asp:textbox>
 						</p>
 					</div><br /><br />
 					<div>

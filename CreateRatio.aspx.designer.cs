@@ -69,13 +69,13 @@ namespace Corporate_Performance_Analyzer
         protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource3;
 
         /// <summary>
-        /// FinancialConstructs control.
+        /// FinancialConstructDropDown control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListBox FinancialConstructs;
+        protected global::System.Web.UI.WebControls.DropDownList FinancialConstructDropDown;
 
         /// <summary>
         /// TextAreaNumerator control.

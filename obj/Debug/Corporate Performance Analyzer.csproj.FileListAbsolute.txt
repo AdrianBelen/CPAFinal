@@ -230,3 +230,6 @@ D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Anal
 D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.csproj.CopyComplete
 D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.dll
 D:\version 4\Corporate Performance Analyzer\obj\Debug\Corporate Performance Analyzer.pdb
+D:\version4\CorporatePerformanceAnalyzer\obj\Debug\Corporate Performance Analyzer.csprojAssemblyReference.cache
+D:\version4\CorporatePerformanceAnalyzer\obj\Debug\Corporate Performance Analyzer.dll
+D:\version4\CorporatePerformanceAnalyzer\obj\Debug\Corporate Performance Analyzer.pdb

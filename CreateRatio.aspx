@@ -15,14 +15,15 @@
 						<p>
 							<asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT Company FROM cpadata.company"></asp:SqlDataSource>
 							<asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource1" DataTextField="Company"  DataValueField="Company" OnSelectedIndexChanged="construct_add" Width="200px"></asp:DropDownList>&nbsp;
-							<asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT y_ear FROM cpadata.y_ear"></asp:SqlDataSource>							<asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource2" DataTextField="y_ear" DataValueField="y_ear" OnSelectedIndexChanged="construct_add" Width="80px"></asp:DropDownList>
+							<asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT CompanyYear FROM cpadata.company"></asp:SqlDataSource>							<asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" DataSourceID="SqlDataSource2" DataTextField="CompanyYear" DataValueField="CompanyYear" OnSelectedIndexChanged="construct_add" Width="80px"></asp:DropDownList>
 						</p>
 					</div><br /><br />
 					<div>
 						<h3>Ratio Constructs</h3>
 						<p>
-							<asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT RatioConstruct FROM cpadata.ratioconstruct"></asp:SqlDataSource>
-							<asp:ListBox ID="FinancialConstructs" runat="server" rows="10" width="80%" AutoPostBack="true" DataSourceID="SqlDataSource3"></asp:ListBox>
+							
+							<asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:CPADataConnectionString %>" ProviderName="<%$ ConnectionStrings:CPADataConnectionString.ProviderName %>" SelectCommand="SELECT FinancialConstructs FROM cpadata.balancesheet"></asp:SqlDataSource>
+							<asp:DropDownList ID="FinancialConstructDropDown" runat="server" DataSourceID="SqlDataSource3" DataTextField="FinancialConstructs" DataValueField="FinancialConstructs"></asp:DropDownList>
 						</p>
 					</div>
 				</article>

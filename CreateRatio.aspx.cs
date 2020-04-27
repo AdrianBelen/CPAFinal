@@ -16,12 +16,15 @@ namespace Corporate_Performance_Analyzer
         String queryStr;
         float constructString;
         List<float> num_array = new List<float>();
+        
+
+        
 
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Page.IsPostBack)
             {
-
+                
 
 
 
@@ -37,7 +40,7 @@ namespace Corporate_Performance_Analyzer
             List<string> l2 = num_array.ConvertAll<string>(x => x.ToString());
             foreach (string s in l2)
             {
-                numerator_textBox.Text = s;
+                numerator_textBox.Text = numerator_textBox.Text + "+" + s;
             }
 
         }
